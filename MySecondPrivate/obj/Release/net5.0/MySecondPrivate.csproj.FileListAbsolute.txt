@@ -1,0 +1,12 @@
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\bin\Release\net5.0\MySecondPrivate.deps.json
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\bin\Release\net5.0\MySecondPrivate.dll
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\bin\Release\net5.0\ref\MySecondPrivate.dll
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\bin\Release\net5.0\MySecondPrivate.pdb
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\obj\Release\net5.0\MySecondPrivate.csproj.AssemblyReference.cache
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\obj\Release\net5.0\MySecondPrivate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\obj\Release\net5.0\MySecondPrivate.AssemblyInfoInputs.cache
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\obj\Release\net5.0\MySecondPrivate.AssemblyInfo.cs
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\obj\Release\net5.0\MySecondPrivate.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\obj\Release\net5.0\MySecondPrivate.dll
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\obj\Release\net5.0\ref\MySecondPrivate.dll
+C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\obj\Release\net5.0\MySecondPrivate.pdb

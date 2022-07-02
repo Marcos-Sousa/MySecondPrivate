@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MySecondPrivate</id>
+    <version>1.0.0</version>
+    <authors>Marcos Sousa</authors>
+    <description>Criando pacote</description>
+    <repository url="https://github.com/Marcos-Sousa/MySecondPrivate" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Marcos Developer\Desktop\curso\fundamentoDevOps\MySecondPrivate\MySecondPrivate\MySecondPrivate\bin\Release\net5.0\MySecondPrivate.dll" target="lib\net5.0\MySecondPrivate.dll" />
+  </files>
+</package>
